@@ -1,0 +1,15 @@
+Implementation of Starategy Design pattern Example in java 
+
+Vechicle case strategy Design example 
+prepared by:wahidullah wahdat
+
+
+step 1: first we create context class which is our vechicle calss.we are define all our basic functions of vechicle.
+
+spep 2:define our strategy interface. with single method drive()
+
+step 3:define concreate vechicle class.
+
+step 4: create concreate  driving starategy for each vechicle.
+
+step 5 : make main class to handle diffrent vehicle requests.
